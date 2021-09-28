@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernd</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [SteamFolio / Dassets.io](SteamFolio.com Dassets.io)
+- 🔭 I’m currently working on [SteamFolio](SteamFolio.com) and [Dassets.io](Dassets.io)
 
 
 <h3 align="left">Languages and Tools:</h3>
