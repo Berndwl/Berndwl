@@ -3,7 +3,7 @@
 Currently working on:
 - [SteamFolio](https://SteamFolio.com) 
 - [Dassets](https://Dassets.io/)
-- [Huisscan](https://Huisscan.com/)
+- [Rentulo](https://Rentulo.com/)
 
 ## Socials:
 
