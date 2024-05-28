@@ -3,8 +3,6 @@
 Currently working on:
 - [SteamFolio](https://SteamFolio.com) 
 - [Dassets](https://Dassets.io/)
-- [Rentulo](https://Rentulo.com/)
-
 ## Socials:
 
 [![](https://img.shields.io/badge/-@berndwl-%23181717?style=flat-square&logo=github)](https://github.com/berndwl)
